@@ -10,7 +10,7 @@ library(shinyalert)
 library(googlesheets4)
 
 fields <- c("first_name", "last_name", "date", "activity", "attempt", "prompt_value")
-activity_url <- "https://docs.google.com/spreadsheets/d/1ncHMI_PCqVUOKbLgebe2dit3tYZsNFxoKqRVdOzGfLg/edit?usp=sharing"
+activity_url <- "XXXX"
 
 todays_date <- function() {
     #returns date in iso format
