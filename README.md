@@ -1,9 +1,8 @@
 # Speech and Language Therapy Tracker
 
 This is a data collection and visulation app designed to be used by Speech and Language pathologists during intervention therapy.
-
-## Screenshot:
-![https://jharr.shinyapps.io/therapytracker/](/images/bar-cropbig.png "https://jharr.shinyapps.io/therapytracker/")
+<!-- ## Screenshot:
+![https://jharr.shinyapps.io/therapytracker/](/images/bar-cropbig.png "https://jharr.shinyapps.io/therapytracker/") -->
 
 ## Demo:
 1. Go to https://jharr.shinyapps.io/therapytracker/
